@@ -1,2 +1,3 @@
-# 201901604_Tarea4
-Tarea 4 LFP
+## MANUAL DE USUARIO
+Aqui se pondran las intruscciones para hacer bien la practica
+
